@@ -4,6 +4,8 @@
 This project focuses on analyzing real e‑commerce transactional data to understand customer behavior, order patterns, and business performance. Using SQL Server and Python, the goal is to build a reliable analytics foundation that supports KPI tracking, trend analysis, and future AI‑generated insights.
 The work begins with loading raw CSV files into SQL Server, modeling the relationships between customers and their orders, and performing exploratory analysis to uncover meaningful patterns in purchasing behavior.
 
+<a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data?select=olist_customers_dataset.csv">Kaggle Dataset Description</a>
+
 📦 Dataset (Phase 1 Only)
 Using the Olist e‑commerce dataset, specifically the four core tables required for customer‑order analysis:
 - olist_customers_dataset.csv — customer identifiers, location, and unique IDs
